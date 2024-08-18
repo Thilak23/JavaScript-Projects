@@ -1,0 +1,99 @@
+body{
+  background-color: red;
+}
+.head{
+  font-size: 40px;
+  font-weight: bold;
+}
+.rock{
+  border-radius: 100px;
+  background-color: black;
+  border: none;
+  padding: 10px;
+}
+.rockimg{
+  height: 100px;
+  background-color: black;
+  border-radius: 30px;
+  padding: 0 0 5px 0;
+  border: none;
+  cursor: pointer;
+}
+.paper{
+  border-radius: 100px;
+  background-color: black;
+  border: none;
+  padding: 10px;
+}
+.paperimg{
+  height: 100px;
+  background-color: black;
+  border-radius: 25px;
+  padding: 5px 0 5px 0;
+  border: none;
+  cursor: pointer;
+}
+.scissors{
+  border-radius: 100px;
+  background-color: black;
+  border: none;
+  padding: 10px;
+}
+.scissorsimg{
+  height: 100px;
+  background-color: black;
+  border-radius: 25px;
+  padding: 0 0 8px 0;
+  border: none;
+}
+.res{
+  font-size: 35px;
+  text-align: center;
+  color: whitesmoke;
+  margin-right: 35px;
+}
+.pick{
+  font-size: 20px;
+  text-align: center;
+}
+.resimg{
+  height: 70px;
+  border-radius: 100px;
+  background-color: black;
+  border: none;
+  padding: 10px;
+}
+.txt{
+  font-size: 20px;
+  color: whitesmoke;
+}
+.dash{
+  font-size: 20px;
+  font-weight: bold;
+}
+.scores{
+  font-size: 22px;
+  text-align: center;
+  margin-right: 25px;
+  color: whitesmoke;
+}
+.last{
+  margin-top: 20px;
+  margin-left: 55px;
+}
+.reset{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  padding: 3px 14px 6px 14px;
+}
+.auto-play{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  padding: 3px 14px 6px 14px; 
+}
